@@ -1,0 +1,16 @@
+{"timestamp":"1682342171660","id":"3818","payload":{"unit":"C","long":61,"description":"Room Temperature","lat":97,"range":[9,59],"type":"temperature"}}
+{"timestamp":"1682342186581","id":"7069","payload":{"description":"Room Temperature","long":92,"range":[3,60],"lat":96,"type":"temperature","unit":"C"}}
+{"timestamp":"1682342191599","id":"818","payload":{"unit":"C","long":71,"description":"Room Temperature","lat":99,"range":[0,58],"type":"temperature"}}
+{"timestamp":"1682342201528","id":"6975","payload":{"type":"temperature","lat":84,"long":74,"unit":"C","range":[3,60],"description":"Room Temperature"}}
+{"timestamp":"1682342206552","id":"7456","payload":{"description":"Room Temperature","long":52,"range":[2,43],"lat":61,"type":"temperature","unit":"C"}}
+{"timestamp":"1682342211565","id":"2671","payload":{"unit":"C","long":79,"description":"Room Temperature","lat":84,"range":[10,46],"type":"temperature"}}
+{"timestamp":"1682342236662","id":"4977","payload":{"unit":"C","long":97,"description":"Room Temperature","lat":80,"range":[0,58],"type":"temperature"}}
+{"timestamp":"1682342261642","id":"4067","payload":{"unit":"C","long":89,"description":"Room Temperature","lat":66,"range":[3,53],"type":"temperature"}}
+{"timestamp":"1682342266764","id":"5006","payload":{"unit":"C","long":45,"description":"Room Temperature","lat":57,"range":[6,43],"type":"temperature"}}
+{"timestamp":"1682342331786","id":"7259","payload":{"description":"Room Temperature","long":99,"range":[1,44],"lat":66,"type":"temperature","unit":"C"}}
+{"timestamp":"1682342351750","id":"6168","payload":{"description":"Room Temperature","unit":"C","type":"temperature","range":[3,36],"lat":97,"long":67}}
+{"timestamp":"1682342356768","id":"3564","payload":{"unit":"C","long":90,"description":"Room Temperature","lat":98,"range":[0,45],"type":"temperature"}}
+{"timestamp":"1682342361788","id":"1707","payload":{"unit":"C","long":47,"description":"Room Temperature","lat":82,"range":[8,53],"type":"temperature"}}
+{"timestamp":"1682342456916","id":"5680","payload":{"unit":"C","long":96,"description":"Room Temperature","lat":60,"range":[9,36],"type":"temperature"}}
+{"timestamp":"1682342512013","id":"1917","payload":{"unit":"C","long":98,"description":"Room Temperature","lat":75,"range":[8,53],"type":"temperature"}}
+{"timestamp":"1682342517026","id":"782","payload":{"unit":"C","long":61,"description":"Room Temperature","lat":53,"range":[2,53],"type":"temperature"}}

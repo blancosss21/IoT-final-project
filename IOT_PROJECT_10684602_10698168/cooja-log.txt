@@ -1,0 +1,441 @@
+00:04.157	ID:8	application booted
+00:04.161	ID:8	radio start done
+00:04.321	ID:2	application booted
+00:04.324	ID:2	radio start done
+00:04.335	ID:6	application booted
+00:04.339	ID:6	radio start done
+00:04.433	ID:4	application booted
+00:04.436	ID:4	radio start done
+00:04.467	ID:1	application booted
+00:04.470	ID:1	PANC radio start done
+00:04.486	ID:7	application booted
+00:04.490	ID:7	radio start done
+00:04.793	ID:9	application booted
+00:04.796	ID:9	radio start done
+00:04.800	ID:5	application booted
+00:04.803	ID:5	radio start done
+00:04.984	ID:3	application booted
+00:04.987	ID:3	radio start done
+00:06.114	ID:8	sending a connect message
+00:06.278	ID:2	sending a connect message
+00:06.292	ID:6	sending a connect message
+00:06.384	ID:2	Sending packet
+00:06.390	ID:4	sending a connect message
+00:06.392	ID:2	packet sent
+00:06.394	ID:1	node 2 requested to connect
+00:06.396	ID:1	sending a connack message to node: 2
+00:06.398	ID:1	sending packet
+00:06.404	ID:1	Packet sent
+00:06.406	ID:2	connack message received
+00:06.443	ID:7	sending a connect message
+00:06.568	ID:8	Sending packet
+00:06.571	ID:8	packet sent
+00:06.573	ID:1	node 8 requested to connect
+00:06.575	ID:1	sending a connack message to node: 8
+00:06.577	ID:1	sending packet
+00:06.582	ID:1	Packet sent
+00:06.584	ID:8	connack message received
+00:06.607	ID:4	Sending packet
+00:06.615	ID:4	packet sent
+00:06.617	ID:1	node 4 requested to connect
+00:06.618	ID:1	sending a connack message to node: 4
+00:06.621	ID:1	sending packet
+00:06.623	ID:1	Packet sent
+00:06.625	ID:4	connack message received
+00:06.631	ID:6	Sending packet
+00:06.634	ID:6	packet sent
+00:06.636	ID:1	node 6 requested to connect
+00:06.637	ID:1	sending a connack message to node: 6
+00:06.639	ID:1	sending packet
+00:06.642	ID:1	Packet sent
+00:06.644	ID:6	connack message received
+00:06.750	ID:9	sending a connect message
+00:06.757	ID:5	sending a connect message
+00:06.845	ID:7	Sending packet
+00:06.855	ID:7	packet sent
+00:06.857	ID:1	node 7 requested to connect
+00:06.859	ID:1	sending a connack message to node: 7
+00:06.861	ID:1	sending packet
+00:06.869	ID:1	Packet sent
+00:06.871	ID:7	connack message received
+00:06.941	ID:3	sending a connect message
+00:07.041	ID:5	Sending packet
+00:07.051	ID:5	packet sent
+00:07.053	ID:1	node 5 requested to connect
+00:07.055	ID:1	sending a connack message to node: 5
+00:07.057	ID:1	sending packet
+00:07.068	ID:1	Packet sent
+00:07.069	ID:5	connack message received
+00:07.102	ID:3	Sending packet
+00:07.108	ID:3	packet sent
+00:07.110	ID:1	node 3 requested to connect
+00:07.112	ID:1	sending a connack message to node: 3
+00:07.114	ID:1	sending packet
+00:07.121	ID:1	Packet sent
+00:07.122	ID:3	connack message received
+00:07.260	ID:9	Sending packet
+00:07.265	ID:9	packet sent
+00:07.267	ID:1	node 9 requested to connect
+00:07.268	ID:1	sending a connack message to node: 9
+00:07.271	ID:1	sending packet
+00:07.278	ID:1	Packet sent
+00:07.279	ID:9	connack message received
+00:07.603	ID:4	sending a subscribe message to topic 1
+00:07.819	ID:4	Sending packet
+00:07.830	ID:4	packet sent
+00:07.833	ID:1	node 4 requested to subscribe to topic 1
+00:07.835	ID:1	sending a suback message to node: 4
+00:07.837	ID:1	sending packet
+00:07.839	ID:1	Packet sent
+00:07.840	ID:4	suback message received
+00:08.048	ID:5	sending a subscribe message to topic 0
+00:08.258	ID:9	sending a subscribe message to topic 2
+00:08.332	ID:5	Sending packet
+00:08.339	ID:5	packet sent
+00:08.342	ID:1	node 5 requested to subscribe to topic 0
+00:08.344	ID:1	sending a suback message to node: 5
+00:08.346	ID:1	sending packet
+00:08.349	ID:1	Packet sent
+00:08.351	ID:5	suback message received
+00:08.538	ID:8	sending a subscribe message to topic 2
+00:08.598	ID:6	sending a subscribe message to topic 0
+00:08.767	ID:9	Sending packet
+00:08.778	ID:9	packet sent
+00:08.781	ID:1	node 9 requested to subscribe to topic 2
+00:08.782	ID:1	sending a suback message to node: 9
+00:08.785	ID:1	sending packet
+00:08.793	ID:1	Packet sent
+00:08.794	ID:9	suback message received
+00:08.937	ID:6	Sending packet
+00:08.941	ID:6	packet sent
+00:08.944	ID:1	node 6 requested to subscribe to topic 0
+00:08.946	ID:1	sending a suback message to node: 6
+00:08.948	ID:1	sending packet
+00:08.956	ID:1	Packet sent
+00:08.957	ID:6	suback message received
+00:08.992	ID:8	Sending packet
+00:08.996	ID:8	packet sent
+00:08.999	ID:1	node 8 requested to subscribe to topic 2
+00:09.001	ID:1	sending a suback message to node: 8
+00:09.003	ID:1	sending packet
+00:09.010	ID:1	Packet sent
+00:09.012	ID:8	suback message received
+00:09.329	ID:5	sending a subscribe message to topic 0
+00:09.337	ID:2	sending a subscribe message to topic 2
+00:09.444	ID:2	Sending packet
+00:09.446	ID:2	packet sent
+00:09.448	ID:1	node 2 requested to subscribe to topic 2
+00:09.450	ID:1	sending a suback message to node: 2
+00:09.452	ID:1	sending packet
+00:09.461	ID:1	Packet sent
+00:09.462	ID:2	suback message received
+00:09.613	ID:5	Sending packet
+00:09.622	ID:5	packet sent
+00:09.625	ID:1	node 5 requested to subscribe to topic 0
+00:09.627	ID:1	sending a suback message to node: 5
+00:09.630	ID:1	sending packet
+00:09.640	ID:1	Packet sent
+00:09.641	ID:5	suback message received
+00:09.773	ID:9	sending a subscribe message to topic 2
+00:09.795	ID:4	sending a subscribe message to topic 1
+00:09.802	ID:7	sending a subscribe message to topic 1
+00:10.012	ID:4	Sending packet
+00:10.018	ID:4	packet sent
+00:10.021	ID:1	node 4 requested to subscribe to topic 1
+00:10.023	ID:1	sending a suback message to node: 4
+00:10.025	ID:1	sending packet
+00:10.030	ID:1	Packet sent
+00:10.031	ID:4	suback message received
+00:10.053	ID:3	sending a subscribe message to topic 1
+00:10.203	ID:7	Sending packet
+00:10.214	ID:7	packet sent
+00:10.214	ID:3	Sending packet
+00:10.217	ID:1	node 7 requested to subscribe to topic 1
+00:10.218	ID:1	sending a suback message to node: 7
+00:10.220	ID:1	sending packet
+00:10.223	ID:3	packet sent
+00:10.226	ID:1	node 3 requested to subscribe to topic 1
+00:10.226	ID:7	suback message received
+00:10.228	ID:1	sending a suback message to node: 3
+00:10.228	ID:1	Packet sent
+00:10.230	ID:1	sending packet
+00:10.236	ID:1	Packet sent
+00:10.238	ID:3	suback message received
+00:10.282	ID:9	Sending packet
+00:10.293	ID:9	packet sent
+00:10.296	ID:1	node 9 requested to subscribe to topic 2
+00:10.297	ID:1	sending a suback message to node: 9
+00:10.300	ID:1	sending packet
+00:10.307	ID:1	Packet sent
+00:10.309	ID:9	suback message received
+00:10.912	ID:6	sending a subscribe message to topic 0
+00:10.967	ID:8	sending a subscribe message to topic 2
+00:11.251	ID:6	Sending packet
+00:11.258	ID:6	packet sent
+00:11.261	ID:1	node 6 requested to subscribe to topic 0
+00:11.262	ID:1	sending a suback message to node: 6
+00:11.264	ID:1	sending packet
+00:11.267	ID:1	Packet sent
+00:11.269	ID:6	suback message received
+00:11.417	ID:2	sending a subscribe message to topic 2
+00:11.421	ID:8	Sending packet
+00:11.425	ID:8	packet sent
+00:11.427	ID:1	node 8 requested to subscribe to topic 2
+00:11.429	ID:1	sending a suback message to node: 8
+00:11.431	ID:1	sending packet
+00:11.436	ID:1	Packet sent
+00:11.437	ID:8	suback message received
+00:11.524	ID:2	Sending packet
+00:11.529	ID:2	packet sent
+00:11.532	ID:1	node 2 requested to subscribe to topic 2
+00:11.534	ID:1	sending a suback message to node: 2
+00:11.536	ID:1	sending packet
+00:11.539	ID:1	Packet sent
+00:11.540	ID:2	suback message received
+00:12.249	ID:6	publish message generated with topic: 2 and payload: 45
+00:12.250	ID:6	sending a publish message to node 1
+00:12.252	ID:6	topic of the message: 2, payload: 45
+00:12.520	ID:2	publish message generated with topic: 0 and payload: 89
+00:12.522	ID:2	sending a publish message to node 1
+00:12.524	ID:2	topic of the message: 0, payload: 89
+00:12.574	ID:5	publish message generated with topic: 1 and payload: 72
+00:12.576	ID:5	sending a publish message to node 1
+00:12.578	ID:5	topic of the message: 1, payload: 72
+00:12.591	ID:6	Sending packet
+00:12.596	ID:6	packet sent
+00:12.600	ID:1	publish message received by node 6 with topic: 2 and payload: 45
+00:12.616	ID:1	sending a publish message to node 2
+00:12.618	ID:1	topic of the message: 2, payload: 45
+00:12.620	ID:1	sending packet
+00:12.628	ID:1	Packet sent
+00:12.631	ID:2	publish message received with topic: 2 and payload: 45
+00:12.633	ID:2	Sending packet
+00:12.636	ID:2	packet sent
+00:12.640	ID:1	publish message received by node 2 with topic: 0 and payload: 89
+00:12.803	ID:1	sending a publish message to node 5
+00:12.805	ID:1	topic of the message: 0, payload: 89
+00:12.807	ID:1	sending packet
+00:12.810	ID:1	Packet sent
+00:12.814	ID:5	publish message received with topic: 0 and payload: 89
+00:12.855	ID:1	sending a publish message to node 6
+00:12.857	ID:1	topic of the message: 0, payload: 89
+00:12.859	ID:1	sending packet
+00:12.863	ID:1	Packet sent
+00:12.863	ID:5	Sending packet
+00:12.866	ID:6	publish message received with topic: 0 and payload: 89
+00:12.866	ID:5	packet sent
+00:12.870	ID:1	publish message received by node 5 with topic: 1 and payload: 72
+00:12.935	ID:1	sending a publish message to node 3
+00:12.937	ID:1	topic of the message: 1, payload: 72
+00:12.940	ID:1	sending packet
+00:12.943	ID:1	Packet sent
+00:12.946	ID:3	publish message received with topic: 1 and payload: 72
+00:12.963	ID:4	publish message generated with topic: 0 and payload: 21
+00:12.965	ID:4	sending a publish message to node 1
+00:12.967	ID:4	topic of the message: 0, payload: 21
+00:12.988	ID:1	sending a publish message to node 4
+00:12.990	ID:1	topic of the message: 1, payload: 72
+00:12.992	ID:1	sending packet
+00:12.997	ID:1	Packet sent
+00:13.000	ID:4	publish message received with topic: 1 and payload: 72
+00:13.158	ID:7	sending a subscribe message to topic 1
+00:13.170	ID:3	sending a subscribe message to topic 2
+00:13.184	ID:4	Sending packet
+00:13.188	ID:4	packet sent
+00:13.192	ID:1	publish message received by node 4 with topic: 0 and payload: 21
+00:13.232	ID:6	publish message generated with topic: 0 and payload: 72
+00:13.234	ID:6	sending a publish message to node 1
+00:13.236	ID:6	topic of the message: 0, payload: 72
+00:13.241	ID:9	publish message generated with topic: 1 and payload: 28
+00:13.243	ID:9	sending a publish message to node 1
+00:13.245	ID:9	topic of the message: 1, payload: 28
+00:13.330	ID:3	Sending packet
+00:13.334	ID:3	packet sent
+00:13.336	ID:1	node 3 requested to subscribe to topic 2
+00:13.338	ID:1	sending a suback message to node: 3
+00:13.341	ID:1	sending packet
+00:13.345	ID:1	Packet sent
+00:13.346	ID:3	suback message received
+00:13.354	ID:1	sending a publish message to node 5
+00:13.356	ID:1	topic of the message: 0, payload: 21
+00:13.358	ID:1	sending packet
+00:13.364	ID:1	Packet sent
+00:13.367	ID:5	publish message received with topic: 0 and payload: 21
+00:13.558	ID:5	publish message generated with topic: 1 and payload: 23
+00:13.559	ID:7	Sending packet
+00:13.559	ID:5	sending a publish message to node 1
+00:13.561	ID:5	topic of the message: 1, payload: 23
+00:13.570	ID:7	packet sent
+00:13.572	ID:1	node 7 requested to subscribe to topic 1
+00:13.574	ID:1	sending a suback message to node: 7
+00:13.574	ID:6	Sending packet
+00:13.576	ID:1	sending packet
+00:13.583	ID:6	packet sent
+00:13.588	ID:1	publish message received by node 6 with topic: 0 and payload: 72
+00:13.588	ID:7	suback message received
+00:13.589	ID:1	Packet sent
+00:13.751	ID:1	sending a publish message to node 5
+00:13.753	ID:1	topic of the message: 0, payload: 72
+00:13.755	ID:9	Sending packet
+00:13.755	ID:1	sending packet
+00:13.758	ID:1	Packet sent
+00:13.761	ID:9	packet sent
+00:13.761	ID:5	publish message received with topic: 0 and payload: 72
+00:13.765	ID:1	publish message received by node 9 with topic: 1 and payload: 28
+00:13.830	ID:1	sending a publish message to node 3
+00:13.832	ID:1	topic of the message: 1, payload: 28
+00:13.834	ID:1	sending packet
+00:13.844	ID:1	Packet sent
+00:13.846	ID:5	Sending packet
+00:13.847	ID:3	publish message received with topic: 1 and payload: 28
+00:13.854	ID:5	packet sent
+00:13.857	ID:1	publish message received by node 5 with topic: 1 and payload: 23
+00:13.923	ID:1	sending a publish message to node 3
+00:13.925	ID:1	topic of the message: 1, payload: 23
+00:13.927	ID:1	sending packet
+00:13.931	ID:1	Packet sent
+00:13.934	ID:3	publish message received with topic: 1 and payload: 23
+00:13.947	ID:4	publish message generated with topic: 2 and payload: 58
+00:13.949	ID:4	sending a publish message to node 1
+00:13.951	ID:4	topic of the message: 2, payload: 58
+00:13.975	ID:1	sending a publish message to node 4
+00:13.977	ID:1	topic of the message: 1, payload: 23
+00:13.979	ID:1	sending packet
+00:13.982	ID:1	Packet sent
+00:13.986	ID:4	publish message received with topic: 1 and payload: 23
+00:14.167	ID:4	Sending packet
+00:14.174	ID:4	packet sent
+00:14.178	ID:1	publish message received by node 4 with topic: 2 and payload: 58
+00:14.193	ID:1	sending a publish message to node 2
+00:14.195	ID:1	topic of the message: 2, payload: 58
+00:14.197	ID:1	sending packet
+00:14.202	ID:1	Packet sent
+00:14.205	ID:2	publish message received with topic: 2 and payload: 58
+00:14.225	ID:9	publish message generated with topic: 0 and payload: 45
+00:14.227	ID:9	sending a publish message to node 1
+00:14.229	ID:9	topic of the message: 0, payload: 45
+00:14.246	ID:1	sending a publish message to node 3
+00:14.248	ID:1	topic of the message: 2, payload: 58
+00:14.251	ID:1	sending packet
+00:14.257	ID:1	Packet sent
+00:14.260	ID:3	publish message received with topic: 2 and payload: 58
+00:14.369	ID:8	publish message generated with topic: 2 and payload: 65
+00:14.371	ID:8	sending a publish message to node 1
+00:14.373	ID:8	topic of the message: 2, payload: 65
+00:14.480	ID:2	publish message generated with topic: 1 and payload: 76
+00:14.482	ID:2	sending a publish message to node 1
+00:14.484	ID:2	topic of the message: 1, payload: 76
+00:14.494	ID:1	sending a publish message to node 8
+00:14.496	ID:1	topic of the message: 2, payload: 58
+00:14.498	ID:1	sending packet
+00:14.501	ID:1	Packet sent
+00:14.504	ID:8	publish message received with topic: 2 and payload: 58
+00:14.547	ID:1	sending a publish message to node 9
+00:14.549	ID:1	topic of the message: 2, payload: 58
+00:14.551	ID:1	sending packet
+00:14.561	ID:1	Packet sent
+00:14.564	ID:9	publish message received with topic: 2 and payload: 58
+00:14.568	ID:7	publish message generated with topic: 2 and payload: 38
+00:14.569	ID:7	sending a publish message to node 1
+00:14.571	ID:7	topic of the message: 2, payload: 38
+00:14.590	ID:2	Sending packet
+00:14.600	ID:2	packet sent
+00:14.603	ID:1	publish message received by node 2 with topic: 1 and payload: 76
+00:14.669	ID:1	sending a publish message to node 3
+00:14.671	ID:1	topic of the message: 1, payload: 76
+00:14.674	ID:1	sending packet
+00:14.679	ID:1	Packet sent
+00:14.682	ID:3	publish message received with topic: 1 and payload: 76
+00:14.738	ID:9	Sending packet
+00:14.746	ID:9	packet sent
+00:14.749	ID:1	publish message received by node 9 with topic: 0 and payload: 45
+00:14.827	ID:8	Sending packet
+00:14.833	ID:8	packet sent
+00:14.837	ID:1	publish message received by node 8 with topic: 2 and payload: 65
+00:14.852	ID:1	sending a publish message to node 2
+00:14.854	ID:1	topic of the message: 2, payload: 65
+00:14.856	ID:1	sending packet
+00:14.863	ID:1	Packet sent
+00:14.867	ID:2	publish message received with topic: 2 and payload: 65
+00:14.905	ID:1	sending a publish message to node 3
+00:14.907	ID:1	topic of the message: 2, payload: 65
+00:14.909	ID:1	sending packet
+00:14.919	ID:1	Packet sent
+00:14.922	ID:3	publish message received with topic: 2 and payload: 65
+00:14.972	ID:7	Sending packet
+00:14.978	ID:7	packet sent
+00:14.982	ID:1	publish message received by node 7 with topic: 2 and payload: 38
+00:14.998	ID:1	sending a publish message to node 2
+00:15.000	ID:1	topic of the message: 2, payload: 38
+00:15.003	ID:1	sending packet
+00:15.013	ID:1	Packet sent
+00:15.016	ID:2	publish message received with topic: 2 and payload: 38
+00:15.051	ID:1	sending a publish message to node 3
+00:15.053	ID:1	topic of the message: 2, payload: 38
+00:15.055	ID:1	sending packet
+00:15.061	ID:1	Packet sent
+00:15.065	ID:3	publish message received with topic: 2 and payload: 38
+00:15.299	ID:1	sending a publish message to node 8
+00:15.301	ID:1	topic of the message: 2, payload: 38
+00:15.302	ID:3	publish message generated with topic: 0 and payload: 62
+00:15.303	ID:1	sending packet
+00:15.304	ID:3	sending a publish message to node 1
+00:15.306	ID:1	Packet sent
+00:15.307	ID:3	topic of the message: 0, payload: 62
+00:15.310	ID:8	publish message received with topic: 2 and payload: 38
+00:15.353	ID:8	publish message generated with topic: 2 and payload: 50
+00:15.355	ID:8	sending a publish message to node 1
+00:15.357	ID:8	topic of the message: 2, payload: 50
+00:15.468	ID:3	Sending packet
+00:15.472	ID:3	packet sent
+00:15.475	ID:1	publish message received by node 3 with topic: 0 and payload: 62
+00:15.551	ID:7	publish message generated with topic: 1 and payload: 89
+00:15.553	ID:7	sending a publish message to node 1
+00:15.555	ID:7	topic of the message: 1, payload: 89
+00:15.687	ID:1	sending a publish message to node 6
+00:15.689	ID:1	topic of the message: 0, payload: 62
+00:15.691	ID:1	sending packet
+00:15.700	ID:1	Packet sent
+00:15.704	ID:6	publish message received with topic: 0 and payload: 62
+00:15.810	ID:8	Sending packet
+00:15.817	ID:8	packet sent
+00:15.820	ID:1	publish message received by node 8 with topic: 2 and payload: 50
+00:15.837	ID:1	sending a publish message to node 2
+00:15.839	ID:1	topic of the message: 2, payload: 50
+00:15.841	ID:1	sending packet
+00:15.848	ID:1	Packet sent
+00:15.851	ID:2	publish message received with topic: 2 and payload: 50
+00:15.889	ID:1	sending a publish message to node 3
+00:15.891	ID:1	topic of the message: 2, payload: 50
+00:15.893	ID:1	sending packet
+00:15.903	ID:1	Packet sent
+00:15.907	ID:3	publish message received with topic: 2 and payload: 50
+00:15.956	ID:7	Sending packet
+00:15.961	ID:7	packet sent
+00:15.965	ID:1	publish message received by node 7 with topic: 1 and payload: 89
+00:16.029	ID:1	sending a publish message to node 3
+00:16.031	ID:1	topic of the message: 1, payload: 89
+00:16.033	ID:1	sending packet
+00:16.037	ID:1	Packet sent
+00:16.040	ID:3	publish message received with topic: 1 and payload: 89
+00:16.082	ID:1	sending a publish message to node 4
+00:16.084	ID:1	topic of the message: 1, payload: 89
+00:16.086	ID:1	sending packet
+00:16.095	ID:1	Packet sent
+00:16.098	ID:4	publish message received with topic: 1 and payload: 89
+00:16.232	ID:1	sending a publish message to node 7
+00:16.234	ID:1	topic of the message: 1, payload: 89
+00:16.236	ID:1	sending packet
+00:16.239	ID:1	Packet sent
+00:16.242	ID:7	publish message received with topic: 1 and payload: 89
+00:16.287	ID:3	publish message generated with topic: 0 and payload: 99
+00:16.289	ID:3	sending a publish message to node 1
+00:16.291	ID:3	topic of the message: 0, payload: 99
+00:16.451	ID:3	Sending packet
+00:16.457	ID:3	packet sent
+00:16.461	ID:1	publish message received by node 3 with topic: 0 and payload: 99
+00:16.672	ID:1	sending a publish message to node 6
+00:16.674	ID:1	topic of the message: 0, payload: 99
+00:16.676	ID:1	sending packet
+00:16.681	ID:1	Packet sent
+00:16.684	ID:6	publish message received with topic: 0 and payload: 99
